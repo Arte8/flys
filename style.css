@@ -4,3 +4,10 @@
     margin-right: auto;
     width: 80%;
 }
+
+p {
+    border: thin solid black;
+    text-align: justify;
+    width: 750px;
+    /* height: 150px; */
+}
