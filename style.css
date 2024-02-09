@@ -6,8 +6,8 @@
 }
 
 p {
-    border: thin solid black;
+    /* border: thin solid black; */
     text-align: justify;
-    width: 750px;
+    width: 75%;
     /* height: 150px; */
 }
